@@ -20,5 +20,9 @@ In conclusion, we believe we can paint a picture on how nutrition varies across 
 1. NFHS3 (Well Fed Vs Under Fed) Ratio
 2. NFHS4 Rural Vs NFHS4 Urban (Well Fed Vs Under Fed) Comparison
 3. NFHS3 Vs NFHS4 -Female Child (per 1000 male) Percent change
-4. Top 5 & Below 5 States For UnderFed & Well Fed in both Surveys
+4. Top 5 & Below 5 States For under weights in both Surveys
+5. Correlation between Breastfed pop. to stunt growth %.
+6. Severly wasted, stuned,underweight,wasted  stat for overall india.
+7. States with aquaduate diet over time
+
 
