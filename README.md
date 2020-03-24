@@ -126,10 +126,11 @@ The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusive
 	</p>
 	
 The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusively_Breastfed (Rural) -0.19. This Survey-4 for rural shows a weak negative coorelation. 
+<p align="center">
 <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Regression3.png">
 	</p>
 The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusively_Breastfed (Urban) -0.19. This Survey-4 for rural shows a weak negative coorelation. Additionally, the "R" value was the same as rural, which I found to be interesting. 
-
+<p align="center">
 <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Regression4.png">
 	</p>
 
