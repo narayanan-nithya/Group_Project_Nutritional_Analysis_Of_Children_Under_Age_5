@@ -1,5 +1,5 @@
 # Enter your API keys
 
-api_key = "AIzaSyCaCLIO7W8ELm01OtwLhbLg4eG2rwnlB20"
+api_key = "AIzaSyChlWzk8pm4AeNjY8ABZp1WXNR4nBq_Db4"
 
-gkey = "AIzaSyCaCLIO7W8ELm01OtwLhbLg4eG2rwnlB20"
+gkey = "AIzaSyChlWzk8pm4AeNjY8ABZp1WXNR4nBq_Db4"
