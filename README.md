@@ -99,3 +99,47 @@ Dadar And Nagar Haveli  state showing the largest number increase. -1013
 1.With Over all Underfed to Well Fed Ratio decreasing between the two survey years and female child birth ratio increasing we can safely say that the Rural population is catching up to the Urban health population numbers. 
 
 2.The National Family & Health Survey positively shows the nutritional improvement efforts taken by the govt to provide post pregnancy education, medical health & food supplies are on track to make rural to urban ratio insignificant.
+
+##Correlation between Breasfed population to stunted growth
+<p align="center">
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Bar_Chart.png">
+	</p>
+<p align="center">
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Breastfed_Pie_Chart.png">
+	</p>
+
+The bar chart has the average of four different columns of data. These columns are the calculated percentages of different states in India. What I wanted to get out of these charts was to filter out the most dominate variable that could have a coorelation with stunted growth %. From these two charts, it paints a clear picture. "Exclusively Breastfeeding up to age six months" is the most common variable when it comes to children nutrition in this analysis. The reason for this is that after age of six months, infants nutrituion shifts from breastfed to solid or semi-solid food, with only 16% of all mothers still breastfeeding as their only ways of nutruition. With this knowlegde, it seems most logically to test the strongest factor. 
+
+<p align="center">
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Scatterplot.png">
+	</p>
+This scatter plot was created with "X" as the Children_Stunted_5years(Height-For-Age) and "Y" as Children_Under_Age_6_Months_Exclusively_Breastfed. The plotting from first glance didn't seem to have much of a coorelation. But I decided to run a regression test to get my "R" values.
+
+<p align="center">
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Regression1.png">
+	</p>
+The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusively_Breastfed 0.16 for Survey-3. This shows a positive coorelation but at 0.16 is too low to consider it strong coorelation. 
+
+
+<p align="center">
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Regression2.png">
+	</p>
+	
+The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusively_Breastfed (Rural) -0.19. This Survey-4 for rural shows a weak negative coorelation. 
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Regression3.png">
+	</p>
+The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusively_Breastfed (Urban) -0.19. This Survey-4 for rural shows a weak negative coorelation. Additionally, the "R" value was the same as rural, which I found to be interesting. 
+
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Regression4.png">
+	</p>
+
+The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusively_Breastfed (Total) -0.12. This is a lower "R" score than both Rural and Urban, but still too weak to be considered for coorelation. 
+
+In conclusion we can't say that Breastfeeding Exclusively has any coorelation with Stunted Growth %. We would have to do further testing on other variables to see if there was a higher coorelation somewhere else. 
+
+Final conclusion-
+
+  As we test our five different indictor; NFHS3 (Well Fed Vs Under Fed) Ratio, NFHS4 Rural Vs NFHS4 Urban (Well Fed Vs Under Fed) Comparison, NFHS3 Vs NFHS4 -Female Child (per 1000 male) Percent change, Top 5 & Below 5 States For UnderFed & Well Fed in both Surveys,and Correlation between Breasfed population to stunted growth, we uncovered an indepth look into nutrition practices for children in India under the age of five. The data was able to be filter for top five and bottom five states of India nutrition, measure Fed verus under fed, Gender breakdown, create a map of gender breakdowns, and tested coorelation. The results speak for themselves and I believe our visualizations will help people understand the country of India's children population nutrition. This concludes our project. 
+
+
+
