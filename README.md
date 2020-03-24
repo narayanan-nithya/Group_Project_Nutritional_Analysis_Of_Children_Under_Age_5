@@ -43,4 +43,59 @@ In conclusion, we believe we can paint a picture on how nutrition varies across 
 
 3.India is vast, so the data that is published talks to significant Rural and Urban Areas thus does not include many other smaller villages and territories. 
 
-4.Data also does not talk about the measures that were taken between the two surveys to improve the nutritional health of the population in question. 
+4.Data also does not talk about the measures that were taken between the two surveys to improve the nutritional health of the population in question.
+
+## Overall UnderFed To WellFed Ratio Analysis & Gender Ratio change 
+1. Is there significant underfed to well fed ratio difference between the 2 conducted surveys? If so, how much?
+2. Is there significant underfed to well fed ratio difference between the latest survey for Rural and Urban areas?If so, find out!
+3. How has the female child birth rati(per 1000 males) changed from 2013 to 2016?
+4. Let’s look at the top 10 states showing significant improvement in these birth numbers. 
+
+## UnderFed To Well Fed Ratio Decrease
+For Survey NFHS3 - The Underfed To Well Fed Ratio is very significant 
+2.4 
+For Survey NFHS4 Rural Area - The Underfed To Well Fed Ratio is significant.
+1.0
+For Survey NFHS4 Urban Area - The Underfed To Well Fed Ratio is not very significant.
+0.8
+For Survey NFHS4 - The Underfed To Well Fed Ratio has decreased significantly from NFHS3 Survey.
+0.9 
+Between NFHS3 & NFHS4 - There has been a 60% decrease in the ratio difference between the Underfed and Well Fed population. 
+
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Bar%20Plot%20Of%20Ratio%20Increase%20Over%20Years%20Between%20The%20Two%20Surveys%20(2).png">
+	</p>
+
+## Median Underfed To Well Fed Population Across All Surveys
+NFHS3 - 31
+NFHS4 - 26.8
+NFHS4 Rural - 28
+NFH4 Urban - 24.3
+
+Rural Nutritional health has improved positively given the overall decrease in the number of underfed population from NFHS3 survey to NFHS4 survey.
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Bar%20Plots%20-%20NFHS3%20Vs%20NFHS4.png">
+	</p>
+
+## Female Child(per 1000 males) Birth % Improvement
+Female Child (per 1000 males) Count in NFHS3 - 26101
+
+Female Child (per 1000 males) Count in NFHS3 - 33233
+
+There is a 27% Increase in the ratio with Top Ten states showing significant number increase.
+
+Dadar And Nagar Haveli  state showing the largest number increase. -1013
+
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Gender%20Increase%20Pie%20Chart.png">
+<p align="center">
+	
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Gender%20Count%20Increase%20from%20NFHS3%20To%20NFHS4.png">
+	</p>
+	
+<img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/map%20(3).png">
+	</p>
+
+1.With Over all Underfed to Well Fed Ratio decreasing between the two survey years and female child birth ratio increasing we can safely say that the Rural population is catching up to the Urban health population numbers. 
+
+2.The National Family & Health Survey positively shows the nutritional improvement efforts taken by the govt to provide post pregnancy education, medical health & food supplies are on track to make rural to urban ratio insignificant.
