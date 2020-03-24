@@ -89,10 +89,10 @@ Dadar And Nagar Haveli  state showing the largest number increase. -1013
 <p align="center">
   <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Gender%20Increase%20Pie%20Chart.png">
 <p align="center">
-	
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Gender%20Count%20Increase%20from%20NFHS3%20To%20NFHS4.png">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Gender%20Count%20Increase%20from%20NFHS3%20To%20NFHS4.png>
 	</p>
-	
+
+<p align="center">	
 <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/map%20(3).png">
 	</p>
 
@@ -100,7 +100,7 @@ Dadar And Nagar Haveli  state showing the largest number increase. -1013
 
 2.The National Family & Health Survey positively shows the nutritional improvement efforts taken by the govt to provide post pregnancy education, medical health & food supplies are on track to make rural to urban ratio insignificant.
 
-## Correlation between Breasfed population to stunted growth
+## Correlation between Breastfed population to stunted growth
 <p align="center">
 <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Bar_Chart.png">
 	</p>
@@ -138,9 +138,6 @@ The correlation between Stunted Height and Children_Under_Age_6_Months_Exclusive
 
 In conclusion we can't say that Breastfeeding Exclusively has any coorelation with Stunted Growth %. We would have to do further testing on other variables to see if there was a higher coorelation somewhere else. 
 
-Final conclusion-
-
+## Final conclusion
+  
   As we test our five different indictor; NFHS3 (Well Fed Vs Under Fed) Ratio, NFHS4 Rural Vs NFHS4 Urban (Well Fed Vs Under Fed) Comparison, NFHS3 Vs NFHS4 -Female Child (per 1000 male) Percent change, Top 5 & Below 5 States For UnderFed & Well Fed in both Surveys,and Correlation between Breasfed population to stunted growth, we uncovered an indepth look into nutrition practices for children in India under the age of five. The data was able to be filter for top five and bottom five states of India nutrition, measure Fed verus under fed, Gender breakdown, create a map of gender breakdowns, and tested coorelation. The results speak for themselves and I believe our visualizations will help people understand the country of India's children population nutrition. This concludes our project. 
-
-
-
