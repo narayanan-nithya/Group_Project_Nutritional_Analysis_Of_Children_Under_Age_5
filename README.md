@@ -36,7 +36,7 @@ In conclusion, we believe we can paint a picture on how nutrition varies across 
 
 6. Work done by  foundations like Cry America , Akshaya Patra, Sankara Eye Foundation , etc….who have diligent workers in villages trying to curb the malnutrition of kids. Donations to them can be done by amazon smile.
 
-## limitations
+## Limitations
 1.There is no Rural & Urban separate data set for NFHS3 survey(2013)
 
 2.Data Numbers were somewhat inconsistent.
