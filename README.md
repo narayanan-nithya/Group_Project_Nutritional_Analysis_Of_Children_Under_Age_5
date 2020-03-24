@@ -1,4 +1,4 @@
-# Nutrition Health Analysis of Children Under the Age of 5
+# Nutritional Health Analysis of Children Under the Age of 5
 
  ## Team Members
   David 
@@ -23,7 +23,7 @@ In conclusion, we believe we can paint a picture on how nutrition varies across 
 4. Top 5 & Below 5 States For UnderFed & Well Fed in both Surveys
 5. Correlation between Breasfed population to stunted growth
 
-## Nutritonal Analysis Conclusions
+## Nutritional Analysis Conclusions
 1. Breastfeeding Exclusively for the first six months has no correlation to stunted growth %
 
 2. Gender ratio:-  Dadar and Nagar Haveli have highest rural (1308) and urban is lowest among all states
@@ -36,3 +36,11 @@ In conclusion, we believe we can paint a picture on how nutrition varies across 
 
 6. Work done by  foundations like Cry America , Akshaya Patra, Sankara Eye Foundation , etc….who have diligent workers in villages trying to curb the malnutrition of kids. Donations to them can be done by amazon smile.
 
+## limitations
+1. There is no Rural & Urban separate data set for NFHS3 survey(2013)
+
+2.Data Numbers were somewhat inconsistent.
+
+3.India is vast, so the data that is published talks to significant Rural and Urban Areas thus does not include many other smaller villages and territories. 
+
+4.Data also does not talk about the measures that were taken between the two surveys to improve the nutritional health of the population in question. 
