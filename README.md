@@ -100,7 +100,7 @@ Dadar And Nagar Haveli  state showing the largest number increase. -1013
 
 2.The National Family & Health Survey positively shows the nutritional improvement efforts taken by the govt to provide post pregnancy education, medical health & food supplies are on track to make rural to urban ratio insignificant.
 
-##Correlation between Breasfed population to stunted growth
+## Correlation between Breasfed population to stunted growth
 <p align="center">
 <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/Bar_Chart.png">
 	</p>
