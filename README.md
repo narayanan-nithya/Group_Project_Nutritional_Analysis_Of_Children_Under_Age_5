@@ -21,4 +21,18 @@ In conclusion, we believe we can paint a picture on how nutrition varies across 
 2. NFHS4 Rural Vs NFHS4 Urban (Well Fed Vs Under Fed) Comparison
 3. NFHS3 Vs NFHS4 -Female Child (per 1000 male) Percent change
 4. Top 5 & Below 5 States For UnderFed & Well Fed in both Surveys
+5. Correlation between Breasfed population to stunted growth
+
+## Nutritonal Analysis Conclusions
+1. Breastfeeding Exclusively for the first six months has no correlation to stunted growth %
+
+2. Gender ratio:-  Dadar and Nagar Haveli have highest rural (1308) and urban is lowest among all states
+
+3. Under Fed To Well Fed Ratio has decreased by 60% over the years the 2 surveys were conducted.
+
+4. Female child(per 1000 males) birth has increased by 27%
+
+5. The National Family & Health Survey positively shows the nutritional improvement efforts taken by the govt to provide   post pregnancy education, medical health & food supplies are on track to make rural to urban ratio insignificant.
+
+6. Work done by  foundations like Cry America , Akshaya Patra, Sankara Eye Foundation , etc….who have diligent workers in villages trying to curb the malnutrition of kids. Donations to them can be done by amazon smile.
 
