@@ -177,9 +177,7 @@ but large gains in wasting (16.7%)  over years
   <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/indiastatsstunedwasted.png">
 	</p>
 	
-<p align="center">
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/indiastatsstunedwasted.png">
-	</p>
+
 	
 ## top 5 states no of children underweight %
 Jharkhand has highest 49.8% underweight in nfhs4.
