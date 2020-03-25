@@ -173,17 +173,34 @@ but large gains in wasting (16.7%)  over years
 <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/stuned,wasted,.png">
 	</p>
 
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/indiastatsstunedwasted.png">
+	</p>
+	
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/indiastatsstunedwasted.png">
+	</p>
+	
 ## top 5 states no of children underweight %
 Jharkhand has highest 49.8% underweight in nfhs4.
 Madhya Pradesh has 60% children in nfhs3.
 Bihar and Madhya Pradesh have improved from year 2013 to 2015.
 Overall, jharkand, MP, Bihar are highest among rural ,urban and survey3.
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/underweighttop5.png">
+	</p>
+
+
 
 ## bottom 5 states no of children underweight %
 Mizoram is the best lowest of 11.9.
 Manipur , Sikkim , kerala, jammu & Kashmir  are best lowest.
 All states have decreased over years. 
 Mizoram has drastically reduced in rural vs urban 
+
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/bottom4underweight.png">
+	</p>
 
 ## Underweights vs adequate fed(solid food plus breastmilk)
 
@@ -196,7 +213,9 @@ Chattisgarh, west bengal have highest increase in adequate diet (solid-foods & b
 Bihar , karnataka ,arunachal pradesh were top decrease in adequate diet (solid-foods & breastmilk) around 25% !
 Urban to rural andhra pradesh and tamil Nadu have increase in adequate diet around (22%) while assam and west bengal have decreased with  (8%) 
 
-
+<p align="center">
+  <img width="500" height="300" src="https://github.com/narayanan-nithya/Group_Project_Nutritional_Analysis_Of_Children_Under_Age_5/blob/master/underweightvsadequatediet.png">
+	</p>
 
 ## Final conclusion
   
