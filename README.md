@@ -8,7 +8,7 @@
 	
 ## Project Description/Preliminary Outline
 	
-India is a very diverse and unique county with over a billion inhabitants.  The scope of this project will cover one of the most controversial topics in the region, nutrition in children. Children are the future of every civilization and their development will define the success or failure of future societies. The main concept of the project will be to analyze the variables that compose nutritional development in children under the age of 5 years; surveyed in year 2013(NFHS3) and 2015-2016(NFHS4) The project will provide analysis of Urban Vs Rural Nutritional comparison for Survey (NFHS4). Also ,will provide the comparative analysis between the 2 surveys all over Indian States over time. 
+India is a very diverse country with over a billion inhabitants.  The scope of this project will cover one of the most controversial topics in the region, nutrition in children. Children are the future of every civilization and their development will define the success or failure of future societies. The main concept of the project will be to analyze the variables that compose nutritional development in children under the age of 5 years; surveyed in year 2013(NFHS3) and 2015-2016(NFHS4) The project will provide analysis of Urban Vs Rural Nutritional comparison for Survey (NFHS4). Also ,will provide the comparative analysis between the 2 surveys all over Indian States over time. 
 
 In conclusion, we believe we can paint a picture on how nutrition varies across India States in children under the age of five and get comprehension backed by data.
 
